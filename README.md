@@ -52,7 +52,7 @@ After download there is usually a prompt to install files of this type, along wi
 **SLKMeter** prevents the device from sleeping and keeps the screen active, while using the GPS. All of this will necessarily take is toll on the device battery. Extended use of **SLKMeter** is best with the device on charge.
 
 ## Contact
-[email](mailto:slkmeteradmin@slkmeter.com.au)
+[Support](mailto:slkmeteradmin@slkmeter.com.au)
 
 
 
