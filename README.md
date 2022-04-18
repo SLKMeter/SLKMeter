@@ -1,5 +1,6 @@
 
-![SLKMeterIcon_256x256_rounded](https://user-images.githubusercontent.com/30642712/163696711-7420ea45-e4d1-4f32-844e-78f90aa963ab.png)
+[![SLKMeterIcon_192x192_rounded](https://user-images.githubusercontent.com/103928477/163871994-09620e4e-c122-40eb-a440-44f9771768af.png)](https://slkmeter.github.io/SLKMeter-Android/)
 # SLKMeter-Android
 
 Information and download is available at the [SLKMeter-Android](https://slkmeter.github.io/SLKMeter-Android/) website
+
