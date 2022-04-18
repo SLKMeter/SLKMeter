@@ -44,7 +44,7 @@ After download there is usually a prompt to install files of this type, along wi
 - A data update can be triggered by the Check for Update button. Whilst this process will update the data, a known bug prevents the database name from updating. This will only occur after logging out then back in, which triggers an update anyway.
 ### Getting help
 - Help is available, but not 24/7
-- Help can be requested from the login screen or by 
+- Help can be requested from the login screen or by email at [Support](mailto:slkmeteradmin@slkmeter.com.au)
 - Please provide some details of your issue, or you may just get a password reset offer.
 - If you're having trouble logging in and are sure your credentials are correct, you can try logging in to your account at the [SLKMeter website](https://www.slkmeter.com.au)
 
