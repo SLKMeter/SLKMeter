@@ -1,5 +1,5 @@
 [![SLKMeterIcon_192x192_rounded](https://user-images.githubusercontent.com/103928477/163871994-09620e4e-c122-40eb-a440-44f9771768af.png)](https://slkmeter.github.io/SLKMeter-Android/)
-# SLKMeter-Android
+# SLKMeter for Android
 Published binary for SLKMeter v1.2 (final release) for Android
 
 **SLKMeter** is provided by **Fulton Hogan Industries** for those who might find it useful. It is not open source, and the code is not available in this repository, although it is free to use
