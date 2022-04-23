@@ -18,6 +18,7 @@ After download there is usually a prompt to install files of this type, along wi
 **Notes:**  
 - To install application binaries directly on Android devices, or sideloading as it is commonly known, the Android Security settings need to be set to allow Unknown Sources beforehand. The setting is buried in Apps and Notifications in recent Android versions, but may be in Privacy/Security in earlier versions. Googling install android apk might help.
 - This is the same app and version that was available in the Google app store, but installation of this release which is unverified by Google is entirely at the user's risk.
+- Subsequent installations, should they be required can be initiated from the previously downloaded .apk file. There is no need to download it again.
 
 ## Usage
 ### Initial use
