@@ -62,7 +62,7 @@ By default, <strong>SLKMeter</strong> is used on the state and local government 
 <h2 id="download">Download</h2>
 <p><strong>SLKMeter</strong> is no longer available from the Google app store, so the final release is now hosted here and can be downloaded from the link below. It should be downloaded direct to the device.
 <a href="https://github.com/SLKMeter/SLKMeter-Android/releases/download/v1.2/com.fultonhogan.slkmeter_1.2.apk">SLKMeter v1.2</a><br />
-<strong>SLKMeter</strong> for IOS is available from <a href="https://itunes.apple.com/app/id1024397024"><img src="https://user-images.githubusercontent.com/30642712/163707327-d868917b-a948-40ba-ad1d-ae134104b6db.png" alt="image" /></a></p>
+<strong>SLKMeter</strong> for IOS is available from <a href="https://itunes.apple.com/app/id1024397024"><img style="vertical-align:middle" src="https://user-images.githubusercontent.com/30642712/163707327-d868917b-a948-40ba-ad1d-ae134104b6db.png" alt="image" /></a></p>
 
 <h2 id="installation">Installation</h2>
 <p>After download there is usually a prompt to install files of this type, along with security warnings - install at your own risk. If that doesn’t occur, look for the file in your downloads folder (com.fultonhogan.slkmeter_1.2.apk) and tap it. You may also be prompted to allow permission to install from Unknown Sources, if not see below.
@@ -75,38 +75,42 @@ By default, <strong>SLKMeter</strong> is used on the state and local government 
 
 <h2 id="usage">Usage</h2>
 <h3 id="initial-use">Initial use</h3>
-<ul>
-  <li>Users are required to log in to or create an <strong>SLKMeter</strong> account.</li>
-  <li>During setup the Login screen is displayed. If the user has an existing account, they should log in to it, if not, the Register button is below but may be obscured by the keyboard on some devices. Scroll down.</li>
-  <li>If registration fails, it may be because there is a long forgotten existing account. You can check by using a password reset.</li>
-  <li><strong>Note:</strong> There is a bug with some keyboards which add spaces after dots when typing the email address. Please check carefully. Also note that an accepted predictive text suggestion may have been previously mistyped if the login is rejected.</li>
-  <li>After login there is a prompt to download data. This is the latest (Western Australian by default) road network data, and this is required for <strong>SLKMeter</strong> to operate. It also requires permission to use the Location/High accuracy/GPS. Ensure to set this permission during installation, or afterwards in the settings.</li>
-  <li>If <strong>SLKMeter</strong> reports no GPS fix, this is a problem with the device settings or hardware.
-    <h3 id="referencing">Referencing</h3>
-    <p><img src="https://user-images.githubusercontent.com/30642712/163664851-43d71c2c-51d0-4729-a2f4-b713b238510d.png" alt="image" /></p>
-  </li>
-  <li><strong>SLKMeter</strong> continually reports the SLK (Straight Line Kilometre) location of the device, providing the device is within a reasonable distance (50m) of a gazetted Western Australian road</li>
-  <li>The street name field refers to the Route Name, which may differ from the posted street name.</li>
-  <li>SLK + and - signs indicate the direction of travel. These may be inconsistent when stationary.
-    <h3 id="coordinates">Coordinates</h3>
-    <p><img src="https://user-images.githubusercontent.com/30642712/163664776-c17171d9-b962-4032-872d-3785c5053a55.png" alt="image" /></p>
-  </li>
+  <ul> 
+    <li>Users are required to log in to or create an <strong>SLKMeter</strong> account.</li>
+    <li>During setup the Login screen is displayed. If the user has an existing account, they should log in to it, if not, the Register button is below but may be obscured by the keyboard on some devices. Scroll down.</li>
+    <li>If registration fails, it may be because there is a long forgotten existing account. You can check by using a password reset.</li>
+    <li><strong>Note:</strong> There is a bug with some keyboards which add spaces after dots when typing the email address. Please check carefully. Also note that an accepted predictive text suggestion may have been previously mistyped if the login is rejected.</li>
+    <li>After login there is a prompt to download data. This is the latest (Western Australian by default) road network data, and this is required for <strong>SLKMeter</strong> to operate. It also requires permission to use the Location/High accuracy/GPS. Ensure to set this permission during installation, or afterwards in the settings.</li>
+    <li>If <strong>SLKMeter</strong> reports no GPS fix, this is a problem with the device settings or hardware.</li>
+  </ul>
+<h3 id="referencing">Referencing</h3>
+<p><img src="https://user-images.githubusercontent.com/30642712/163664851-43d71c2c-51d0-4729-a2f4-b713b238510d.png" alt="image" /></p>
+  <ul>  
+    <li><strong>SLKMeter</strong> continually reports the SLK (Straight Line Kilometre) location of the device, providing the device is within a reasonable distance (50m) of a gazetted Western Australian road</li>
+    <li>The street name field refers to the Route Name, which may differ from the posted street name.</li>
+    <li>SLK + and - signs indicate the direction of travel. These may be inconsistent when stationary.
+  </ul> 
+<h3 id="coordinates">Coordinates</h3>
+<p><img src="https://user-images.githubusercontent.com/30642712/163664776-c17171d9-b962-4032-872d-3785c5053a55.png" alt="image" /></p>
+  <ul>
   <li>There is a known bug where Eastings and Northings are reversed.</li>
   <li>The trip meter function is a convenience only and should not be relied on, especially for long periods as backgrounding may cause the GPS to pause.
-    <h3 id="app-info">App info</h3>
-    <p><img src="https://user-images.githubusercontent.com/30642712/163664866-b654defd-031a-4b68-bd63-c03b55d1388e.png" alt="image" /></p>
-  </li>
-  <li>The app info page provides information about the app, current data and the logged in account.</li>
-  <li>Automatic data updates are not supported, although notifications of available updates may be provided.</li>
-  <li>The database name can be used to check the data currency. The name has the 4-digit format YYMM appended to it.</li>
-  <li>A data update can be triggered by the Check for Update button. Whilst this process will update the data, a known bug prevents the database name from updating. This will only occur after logging out then back in, which triggers an update anyway.
-    <h3 id="getting-help">Getting help</h3>
-  </li>
-  <li>Help is available, but not 24/7</li>
-  <li>Help can be requested from the login screen or by email at <a href="mailto:slkmeteradmin@slkmeter.com.au">Support</a></li>
-  <li>Please provide some details of your issue, or you may just get a password reset offer.</li>
-  <li>If you’re having trouble logging in and are sure your credentials are correct, you can try logging in to your account at the <a href="https://www.slkmeter.com.au">SLKMeter website</a></li>
-</ul>
+  </ul>    
+<h3 id="app-info">App info</h3>
+<p><img src="https://user-images.githubusercontent.com/30642712/163664866-b654defd-031a-4b68-bd63-c03b55d1388e.png" alt="image" /></p>
+  <ul>
+    <li>The app info page provides information about the app, current data and the logged in account.</li>
+    <li>Automatic data updates are not supported, although notifications of available updates may be provided.</li>
+    <li>The database name can be used to check the data currency. The name has the 4-digit format YYMM appended to it.</li>
+    <li>A data update can be triggered by the Check for Update button. Whilst this process will update the data, a known bug prevents the database name from updating. This will only occur after logging out then back in, which triggers an update anyway.
+  </ul>
+<h3 id="getting-help">Getting help</h3>
+  <ul>
+    <li>Help is available, but not 24/7</li>
+    <li>Help can be requested from the login screen or by email at <a href="mailto:slkmeteradmin@slkmeter.com.au">Support</a></li>
+    <li>Please provide some details of your issue, or you may just get a password reset offer.</li>
+    <li>If you’re having trouble logging in and are sure your credentials are correct, you can try logging in to your account at the <a href="https://www.slkmeter.com.au">SLKMeter website</a></li>
+  </ul>
 
 <h2 id="warning">Warning</h2>
 <p><strong>SLKMeter</strong> prevents the device from sleeping and keeps the screen active, while using the GPS. All of this will necessarily take is toll on the device battery. Extended use of <strong>SLKMeter</strong> is best with the device on charge.</p>
@@ -126,7 +130,7 @@ By default, <strong>SLKMeter</strong> is used on the state and local government 
 
       <footer class="site-footer">
         
-          <span class="site-footer-owner"><a href="https://github.com/SLKMeter/SLKMeter-Android">SLKMeter-Android</a> is maintained by <a href="https://github.com/SLKMeter">SLKMeter</a>.</span>
+          <span class="site-footer-owner"><a href="https://github.com/SLKMeter/SLKMeter-Android">SLKMeter</a> is maintained by <a href="https://github.com/SLKMeter">SLKMeter</a>.</span>
         
         <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
       </footer>
