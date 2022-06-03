@@ -9,8 +9,8 @@ By default, **SLKMeter** is used on the state and local government road networks
 
 ## Download
 **SLKMeter** is no longer available from the Google app store, so the final release is now hosted here and can be downloaded from the link below. It should be downloaded direct to the device.
-[SLKMeter v1.2](https://github.com/SLKMeter/SLKMeter-Android/releases/download/v1.2/com.fultonhogan.slkmeter_1.2.apk)  
-**SLKMeter** for IOS is available from [![image](https://user-images.githubusercontent.com/30642712/163707327-d868917b-a948-40ba-ad1d-ae134104b6db.png)](https://itunes.apple.com/app/id1024397024)
+[SLKMeter v1.2 for Android](https://github.com/SLKMeter/SLKMeter-Android/releases/download/v1.2/com.fultonhogan.slkmeter_1.2.apk)  
+**SLKMeter** for IOS is available from [![image](https://user-images.githubusercontent.com/30642712/163707327-d868917b-a948-40ba-ad1d-ae134104b6db.png)](https://itunes.apple.com/app/id1024397024) or [SLKMeter v1.2.2 for IOS (Iphone)](https://github.com/SLKMeter/SLKMeter/releases/download/v1.2.2/SLKMeter.1.2.2.ipa)
 
 
 ## Installation
