@@ -1,5 +1,5 @@
 [![SLKMeterIcon_192x192_rounded](https://user-images.githubusercontent.com/103928477/163871994-09620e4e-c122-40eb-a440-44f9771768af.png)](https://slkmeter.github.io/SLKMeter/)
-# SLKMeter for Android
+# SLKMeter
 Published binary for SLKMeter v1.2 (final release) for Android
 
 **SLKMeter** is provided by **Fulton Hogan Industries** for those who might find it useful. It is not open source, and the code is not available in this repository, although it is free to use
@@ -14,11 +14,14 @@ By default, **SLKMeter** is used on the state and local government road networks
 
 
 ## Installation
+### Android
 After download there is usually a prompt to install files of this type, along with security warnings - install at your own risk. If that doesn't occur, look for the file in your downloads folder (com.fultonhogan.slkmeter_1.2.apk) and tap it. You may also be prompted to allow permission to install from Unknown Sources, if not see below.
 **Notes:**  
 - To install application binaries directly on Android devices, or sideloading as it is commonly known, the Android Security settings need to be set to allow Unknown Sources beforehand. The setting is buried in Apps and Notifications in recent Android versions, but may be in Privacy/Security in earlier versions. Googling install android apk might help.
 - This is the same app and version that was available in the Google app store, but installation of this release which is unverified by Google is entirely at the user's risk.
 - Subsequent installations, should they be required can be initiated from the previously downloaded .apk file. There is no need to download it again.
+### IOS
+TODO
 
 ## Usage
 ### Initial use
