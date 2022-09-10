@@ -1,29 +1,22 @@
 {
-	"application": [
-		{
-			"slkmeterdb": [
-				{
-					"date": 220727
-					"version": 2207
-					"type": "SLKMeter2"
-				}
-			]
-			"slkmeter1": [
-				{
-					"date": 220727
-					"version": 2207
-					"type": "SLKMeter2"
-				}
-			]
-			"slkmeter2": [
-				{
-					"date": 220727
-					"version": 2207
-					"type": "SLKMeter2"
-					
-				}
-			]
+	"application": [{
+			"slkmeterdb": {
+				"date": 220727,
+				"version": 2207,
+				"type": "SLKMeter2"
+			},
+			"slkmeter1": {
+				"date": 220727,
+				"version": 2207,
+				"type": "SLKMeter1"
+			},
+			"slkmeter2": {
+				"date": 220727,
+				"version": 2207,
+				"type": "SLKMeter2"
+
+			}
 		}
-	
+
 	]
 }
