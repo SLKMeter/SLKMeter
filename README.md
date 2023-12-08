@@ -1,20 +1,16 @@
 [![SLKMeterIcon_192x192_rounded](https://user-images.githubusercontent.com/103928477/163871994-09620e4e-c122-40eb-a440-44f9771768af.png)](https://slkmeter.github.io/SLKMeter/)
 # SLKMeter
-Published binary for SLKMeter v1.2 (final release) for Android
 
-**SLKMeter** is provided by **Fulton Hogan Industries** for those who might find it useful. It is not open source, and the code is not available in this repository, although it is free to use
+**Warning**
+
+**SLKMeter** was provided by **Fulton Hogan Industries** but is now due to cease operations by the end of 2023. It is no longer avaiable for new registrations
 
 **SLKMeter** provides real time referencing using the device GPS. It is designed to locate the user along a linear referenced network such as road, rail or pipeline, where mile (or kilometre) posts would be familiar. It is a modern trip meter and provides automatic correction for network 'rubber banding' between referenced and measured distance.
 By default, **SLKMeter** is used on the state and local government road networks of Western Australia. It has also been trialled with the Australian state networks of Victoria, South Australia and Queensland, as well as internal road networks of mining tenements, although the network definitions and publicly available data from those states are less suitable and is considered largely experimental. The use of other networks is partly supported by arrangement via app help request or by email.
 
 ## Download
-**SLKMeter** is no longer available from the Google app store, so the final release is now hosted here and can be downloaded from the link below. It should be downloaded direct to the device.
+**SLKMeter** is no longer available for installation and will cease operation at the end of 2023.
 
-[SLKMeter v1.2 for Android](https://github.com/SLKMeter/SLKMeter/releases/download/v1.2/com.fultonhogan.slkmeter_1.2.apk) 
-
-**SLKMeter** for IOS is available from [![image](https://user-images.githubusercontent.com/30642712/163707327-d868917b-a948-40ba-ad1d-ae134104b6db.png)](https://itunes.apple.com/app/id1024397024)
-
-or [SLKMeter v1.2.2 for IOS (Iphone)](https://github.com/SLKMeter/SLKMeter/releases/download/v1.2.2/SLKMeter.1.2.2.ipa)
 
 
 ## Installation
